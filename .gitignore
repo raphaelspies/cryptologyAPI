@@ -1,5 +1,6 @@
 # Python dependencies
 __pycache__
+*.pyc
 
 # Env Variables
 .env*
